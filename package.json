@@ -1,0 +1,22 @@
+{
+  "name": "ytdl-audio",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ytdl-audio": "index.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Jay Weeks <jay.patrick.weeks@gmail.com> (https://jayweeks.com)",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.0",
+    "minimist": "^1.2.0",
+    "ytdl-core": "^0.7.18"
+  },
+  "devDependencies": {
+    "standard": "^8.3.0"
+  }
+}
