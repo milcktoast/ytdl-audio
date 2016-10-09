@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jpweeks/ytdl-audio.git"
+  },
   "bin": {
     "ytdl-audio": "index.js"
   },
